@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
+| [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 ## Simulation
 |  |
 | ------- |
