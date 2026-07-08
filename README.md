@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
