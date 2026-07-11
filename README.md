@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Prefix Sum
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
