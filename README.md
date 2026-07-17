@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
