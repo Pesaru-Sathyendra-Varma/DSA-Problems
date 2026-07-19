@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
