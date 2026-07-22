@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2951-find-the-peaks](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2951-find-the-peaks) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3895-count-digit-appearances](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
