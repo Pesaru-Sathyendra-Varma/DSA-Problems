@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Number Theory
 |  |
 | ------- |
