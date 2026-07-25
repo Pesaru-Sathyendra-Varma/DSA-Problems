@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3895-count-digit-appearances) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0414-third-maximum-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
