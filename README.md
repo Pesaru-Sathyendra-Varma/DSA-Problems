@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
