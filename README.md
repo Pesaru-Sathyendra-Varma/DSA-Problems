@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
