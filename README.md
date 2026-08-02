@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
