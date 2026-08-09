@@ -102,14 +102,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0100-same-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0100-same-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0100-same-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Backtracking
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
