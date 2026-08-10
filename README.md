@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
