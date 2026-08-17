@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0090-subsets-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0090-subsets-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
