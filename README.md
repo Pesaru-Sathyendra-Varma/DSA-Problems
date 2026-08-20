@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2951-find-the-peaks) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
