@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
