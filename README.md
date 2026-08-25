@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
