@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0595-big-countries) |
