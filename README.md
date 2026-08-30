@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0595-big-countries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
