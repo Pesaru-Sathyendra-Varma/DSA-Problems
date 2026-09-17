@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2951-find-the-peaks) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
