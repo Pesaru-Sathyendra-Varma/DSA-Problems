@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1025-divisor-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0561-array-partition) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
