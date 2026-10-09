@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1025-divisor-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
