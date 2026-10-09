@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0268-missing-number) |
+| [1748-sum-of-unique-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Quicksort
 |  |
