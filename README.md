@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
