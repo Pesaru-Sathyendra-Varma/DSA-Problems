@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
 ## Stack
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Counting
 |  |
