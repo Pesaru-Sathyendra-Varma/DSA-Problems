@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1748-sum-of-unique-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3731-find-missing-elements) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0561-array-partition) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
