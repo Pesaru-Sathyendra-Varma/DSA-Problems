@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Counting
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
