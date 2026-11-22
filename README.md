@@ -191,11 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1089-duplicate-zeros) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -286,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Pesaru-Sathyendra-Varma/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
